@@ -7,6 +7,12 @@
 #import "CRToastManager.h"
 #import <UIKit/UIKit.h>
 
+//! Project version number for _CRToast.
+FOUNDATION_EXPORT double _CRToastVersionNumber;
+
+//! Project version string for _CRToast.
+FOUNDATION_EXPORT const unsigned char _CRToastVersionString[];
+
 @class CRToastSwipeGestureRecognizer, CRToastTapGestureRecognizer;
 
 /**
