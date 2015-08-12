@@ -10,7 +10,7 @@
 		31AC8EF71B7AB53E0058A40D /* CRToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AC8EEC1B7AB53E0058A40D /* CRToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		31AC8EF81B7AB53E0058A40D /* CRToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AC8EED1B7AB53E0058A40D /* CRToast.m */; };
 		31AC8EF91B7AB53E0058A40D /* CRToastLayoutHelpers.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AC8EEE1B7AB53E0058A40D /* CRToastLayoutHelpers.h */; };
-		31AC8EFA1B7AB53E0058A40D /* CRToastManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AC8EEF1B7AB53E0058A40D /* CRToastManager.h */; };
+		31AC8EFA1B7AB53E0058A40D /* CRToastManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AC8EEF1B7AB53E0058A40D /* CRToastManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		31AC8EFB1B7AB53E0058A40D /* CRToastManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AC8EF01B7AB53E0058A40D /* CRToastManager.m */; };
 		31AC8EFC1B7AB53E0058A40D /* CRToastView.h in Headers */ = {isa = PBXBuildFile; fileRef = 31AC8EF11B7AB53E0058A40D /* CRToastView.h */; };
 		31AC8EFD1B7AB53E0058A40D /* CRToastView.m in Sources */ = {isa = PBXBuildFile; fileRef = 31AC8EF21B7AB53E0058A40D /* CRToastView.m */; };
